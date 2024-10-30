@@ -80,9 +80,9 @@ function Nav() {
         </ul>
       </div>
 
-      {/* Main content */}
+      
       <main className={`transition-all duration-300 ease-in-out ${isSidebarOpen ? 'ml-64' : 'ml-0'} mt-16 p-4`}>
-        {/* Your main content goes here */}
+      
       </main>
     </div>
   );
